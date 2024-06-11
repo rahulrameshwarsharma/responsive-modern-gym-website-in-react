@@ -169,25 +169,6 @@ section {
 }
 
 
-
-
-/* MEDIA QUERIES for (medium screens) */
-
-/* @media screen and (max-width: 1024px) { */
-/* @media screen {
-    body,h1, h2, h3, h4, h5, .faq p {
-        background-color: #F2F1F1;
-        color: #232525;
-    }
-    .programs__program, .card.testimonial, .faq  {
-        background-color: #F2F1F1;
-    }
-} */
-
-
-
-
-
 /* @media screen and (max-width: 1024px) { */
 @media screen and (max-width: 1024px) {
 
