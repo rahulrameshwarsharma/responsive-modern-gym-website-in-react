@@ -49,9 +49,12 @@
     position: relative;
 }
 
+/* 
+Adding transparent background image in whole body, in main.css file
+
 .main__header-right:hover .main__header-circle {
     filter: blur(15px);
-}
+} */
 
 
 /* ================= Programs ===================== */
