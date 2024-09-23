@@ -11,3 +11,5 @@ Currently, two official plugins are available:
 
 ## We are using Link and NavLink from react-router-dom
 -   because it have a active prop to detect which page we are in
+
+-   changing
